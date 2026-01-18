@@ -1,2 +1,0 @@
-# EmmanuelPortfolio
-mi portfolio
